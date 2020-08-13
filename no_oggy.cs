@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-
+using System.Linq;
 class NoOggyChecker
 {
   static void RemoveOggy(List<string> names)
