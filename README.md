@@ -3,10 +3,10 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+Oggy has cockroaches in home which I don't like. So I used this code to remove Oggy
 
-## Method
+## Results
 
-The code doesn't work according to the intention. Make it succeed.
+This code gets rid of strings starting with Oggy. And its a success..
 
-Don't forget to update this file after fixing the code.
+
